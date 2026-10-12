@@ -1,0 +1,7 @@
+{
+  "name": "Guia Anti-Jaca de Verão",
+  "description": "Mini app prático para curtir o fim de semana com equilíbrio, sem neura, sem culpa e sem compensações extremas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
